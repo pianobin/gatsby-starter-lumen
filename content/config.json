@@ -14,6 +14,34 @@
     {
       "label": "Contact me",
       "path": "/pages/contacts"
+    },
+    {
+      "label": "OMORI",
+      "path": "/omori"
+    },
+    {
+      "label": "NSO",
+      "path": "/nso"
+    },
+    {
+      "label": "Impostor Factory",
+      "path": "/if"
+    },
+    {
+      "label": "Paper Lily",
+      "path": "/paper_lily"
+    },
+    {
+      "label": "ASFTU",
+      "path": "/asftu"
+    },
+    {
+      "label": "TCOAL",
+      "path": "/tcoal"
+    },
+    {
+      "label": "Persona 3 Reload",
+      "path": "/p3r"
     }
   ],
   "author": {

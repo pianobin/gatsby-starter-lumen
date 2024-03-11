@@ -8,6 +8,7 @@ category: "YouTube"
 tags:
   - "YouTube"
 description: "Thank you to the following patrons for their support..."
+socialImage: "./photo.png"
 ---
 
 ---
