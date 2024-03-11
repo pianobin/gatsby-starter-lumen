@@ -199,5 +199,12 @@ export default {
     "gatsby-plugin-catch-links",
     "gatsby-plugin-optimize-svgs",
     "gatsby-plugin-sass",
+    {
+      resolve: 'gatsby-plugin-scroll-indicator',
+      options: {
+        // Configure color of the scroll indicator
+        color: '#F7A046',
+      },
+    },
   ],
 };
