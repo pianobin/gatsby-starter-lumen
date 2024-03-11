@@ -27,6 +27,7 @@ const useSiteMetadata = () => {
               soundcloud
               mastodon
               bluesky
+              patreon
             }
           }
           menu {

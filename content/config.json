@@ -1,9 +1,8 @@
 {
-  "title": "Blog by John Doe",
-  "url": "https://lumen.alxshelepenok.com",
-  "subtitle": "Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.",
+  "title": "Pianobin",
+  "url": "https://pianobin.com",
+  "subtitle": "Piano tutorials, sheet music, and arrangements.",
   "copyright": "© All rights reserved.",
-  "googleAnalyticsId": "UA-73379983-2",
   "disqusShortname": "",
   "postsLimit": 4,
   "pathPrefix": "/",
@@ -13,36 +12,33 @@
       "path": "/"
     },
     {
-      "label": "About me",
-      "path": "/pages/about"
-    },
-    {
       "label": "Contact me",
       "path": "/pages/contacts"
     }
   ],
   "author": {
-    "name": "John Doe",
-    "photo": "/photo.jpg",
-    "bio": "Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.",
+    "name": "Pianobin",
+    "photo": "/photo.png",
+    "bio": "Piano tutorials, sheet music, and arrangements.",
     "contacts": {
       "rss": "",
       "email": "",
-      "github": "alxshelepenok/gatsby-starter-lumen",
-      "facebook": "#",
+      "github": "Pianobin",
+      "facebook": "pianobinmusic",
       "telegram": "#",
-      "twitter": "#",
+      "twitter": "pianobinmusic",
       "linkedin": "#",
-      "instagram": "#",
+      "instagram": "pianobinmusic",
       "mastodon": "#",
       "line": "",
       "weibo": "",
       "gitlab": "",
       "medium": "",
-      "youtube": "",
+      "youtube": "pianobin",
       "codepen": "",
       "soundcloud": "",
-      "bluesky": ""
+      "bluesky": "",
+      "patreon": "pianobin"
     }
   }
 }

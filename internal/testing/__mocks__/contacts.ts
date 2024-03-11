@@ -1,7 +1,7 @@
 export default {
   rss: "#",
   email: "#",
-  github: "#",
+  github: "Pianobin",
   twitter: "#",
   telegram: "#",
 };
